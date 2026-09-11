@@ -10,7 +10,13 @@
 
 首轮估计两个完整序列化方案的总效应。正确事实由 Oracle Evidence 给定，避免把检索召回与模型使用证据混在一起；具体结构机制留给后续消融。
 
-## 第一篇文档
+## 研究地图
+
+- [Agent 记忆研究地图：从个人模型、目标系统到 Runtime](docs/002-agent-memory-landscape-for-personal-agents.md)
+
+这张地图基于个人 Agent 的真实业务边界，将关于人的记忆、人的行动状态、Agent 自身经验和 Runtime 工作状态分开，并标注共识、工程收敛、活跃研究与开放问题。
+
+## 第一个窄实验
 
 - [研究方向 001：平铺事实与版本链如何影响不同规模模型使用长期记忆](docs/001-memory-representation-and-reader-capacity.md)
 
