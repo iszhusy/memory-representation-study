@@ -13,6 +13,7 @@
 ## 研究地图
 
 - [Agent 记忆研究地图：从个人模型、目标系统到 Runtime](docs/002-agent-memory-landscape-for-personal-agents.md)
+- [个人 Agent 记忆管线参考架构](docs/003-memory-pipeline-reference-architecture.md)
 
 这张地图基于个人 Agent 的真实业务边界，将关于人的记忆、人的行动状态、Agent 自身经验和 Runtime 工作状态分开，并标注共识、工程收敛、活跃研究与开放问题。
 
